@@ -1,0 +1,610 @@
+*{
+padding:0 ;
+margin:0 ;
+
+
+}
+body{
+	background: #6699FF;
+}
+
+p{
+	font-size:20px ;
+	font-family:sans-serif ;
+	text-align: justify;
+	line-height:150% ;
+
+}
+
+
+
+
+h1{
+	margin-right: 150px;
+	color: #black;
+	font-weight: normal;
+	font-size: 50px;
+	font-family: cursive;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+
+#imgg{
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding: 10px;
+
+}
+
+#imggg{
+	width: 100px;
+	height: 100px;
+	float: right;
+	padding: 10px;
+
+}
+
+nav {
+	width: 30%;
+	margin: auto;
+	text-align: center;
+
+}
+
+nav a{
+	text-decoration: none;
+}
+
+nav li{
+	display: inline-block;
+	background-color:white ;
+	border:solid;
+	margin-top: 15px;
+	font-weight: normal;
+	font-size: 18px;
+	font-family:Arial;
+}
+nav a:hover{background-color:#747377;}
+
+
+
+
+
+
+
+
+#general{
+	background:#6699FF;
+	width:95% ;
+	margin:auto ;
+	height:1200px ;
+
+}
+
+#generalm1{
+	background:#6699FF;
+	width:95% ;
+	margin:auto ;
+	height:1500px ;
+
+}
+
+
+#encabezado{
+	height:10%;
+	background:#0000FF;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
+
+#cuerpo{
+	height:80%;
+	background:#3300CC;
+	margin-bottom: 0.5em;
+}
+
+#piepagina{
+	height:10%;
+	background:#3300FF;
+	margin-top: 10px;
+	
+}
+
+
+
+
+
+
+#izquierda1{
+	width: 100%;
+	float: left;
+	background: #3399CC ;
+	
+}
+table,th,td{
+	border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+#ii{
+	float: left;
+	margin-top: px;
+}
+
+
+#derecha1{
+	width: 20%;
+	float: left;
+	background: #3399F1 ;
+	margin-left: 20px;	
+
+} 
+
+#mif{
+    width: 100px;
+	height: 100px;
+	float: left;
+	padding: 10px;
+
+}
+
+#nn{
+	font-family: cursive;
+	font-family: fantasy;
+}
+
+
+
+#derecha2{
+	width: 30%;
+	float: left;
+	background: #3399F1 ;
+	margin-left: 100px;	
+
+} 
+
+#derecha3{
+	width: 30%;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 20px;
+
+} 
+
+#derecha4{
+	width: 40%;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 20px;
+	margin-top: 20px;
+
+} 
+
+
+#cuadro{
+	width: 30%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 190px;
+	margin-top: 20px;
+
+}
+
+
+#cuadre{
+	width: 46%;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 100px;
+	margin-top: 20px;
+
+}
+
+#cuadra{
+	width: 40%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+#cuadrs{
+	width: 70%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 169px;
+	margin-top:20px;
+
+}
+
+
+
+
+#pie{
+	width: 300px;
+	height: auto;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 100px;
+	margin-top:20px;
+	font-family: cursive;
+	font-family: fantasy;
+
+}
+
+
+#pa{
+	width: auto;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 40px;
+	margin-top:20px;
+	font-family: cursive;
+	font-family: fantasy;
+
+}
+
+
+
+#yo{
+	float: left;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+
+
+}
+#video{
+	height: 100px;
+	float: left;
+
+
+}
+
+
+#compu{
+	padding: 10px;
+}
+
+
+
+
+#dere{
+	width: 40%;
+	height: 90%;
+	float: left;
+	background: #DCDCDC;
+	margin-left: 40px;	
+	margin-top: 30px;
+
+} 
+
+
+#df{
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 10px;
+
+}
+
+
+
+#dero{
+	width: 40%;
+	height: 90%;
+	float: right;
+	background: #DCDCDC;
+	margin-right: 80px;	
+	margin-top: 30px;
+
+} 
+
+
+#der{
+	width: 22%;
+	float: left;
+	background: #DCDCDC;
+	margin-left: 40px;	
+	margin-top: 30px;
+
+} 
+
+
+
+#de{
+	width: 22%;
+	float: right;
+	background: #DCDCDC;
+	margin-right: 30px;	
+	margin-top: 30px;
+
+} 
+
+
+#ei{
+	background:grey ;
+	font-size:20px ;
+	font-family:cursive ;
+	text-align: center;
+	line-height:150% ;
+}
+
+
+#cuad{
+	width: 90%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+
+ 
+
+#mil{
+    width: 150px;
+	height: 200px;
+	float: left;
+	padding: 10px;
+
+}
+
+
+
+#mix{
+   width: 150px;
+	height: 200px;
+	float: right;
+	padding: 10px;
+
+}
+
+
+#tex{
+	width: 60%;
+	font-family: cursive;
+	font-family: fantasy;
+	float: left;
+	margin-left: 20px;
+}
+
+
+#cus{
+	width: 20%;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 20px;
+	margin-top: 20px;
+
+}
+
+
+#mir{
+   width: 150px;
+	height: 200px;
+	float: left;
+	padding: 10px;
+
+}
+
+#tes{
+	width: 60%;
+	font-family: cursive;
+	font-family: fantasy;
+	float:right;
+	margin-right: 20px;
+}
+
+#mip{
+   width: 250px;
+	height: 200px;
+	float: left;
+	padding: 10px;
+
+}
+
+#miv{
+   width: 220px;
+	height: 200px;
+	float: right;
+	padding: 10px;
+
+}
+
+#yop{
+	float: left;
+	margin-left: 20px;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+
+}
+
+#cua{
+	width: auto;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 20px;
+	margin-top: 10px;
+	height: auto;
+
+}
+
+#nx{
+	background: burlywood;
+	font-family: cursive;
+	font-family: fantasy;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+#yosi{
+	float: right;
+	width: 80px;
+	height: 80px;
+
+}
+#cux{
+	width: 10%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 10px;
+	margin-top: 10px;
+	height: 130px;
+
+}
+
+#cuw{
+	width: 10%;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 10px;
+	margin-top: 10px;
+	height: 130px;
+
+}
+
+
+#nc{
+	float: right;
+	width: 10%;
+	height: 130px;
+	background: burlywood;
+	font-family: cursive;
+	font-family: fantasy;
+	margin-top: 10px;
+	margin-right: 50px;
+}
+
+#siu{
+	width: auto;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 300px;
+	margin-top: 10px;
+	height: auto;
+
+}
+
+
+
+
+#cum{
+	width: auto;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 200px;
+	margin-top: 10px;
+	height: auto;
+
+}
+#cuaw{
+	width: 40%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+#DD{
+	font-family: cursive;
+	font-family: fantasy;
+}
+
+#diu{
+	width: 95%;
+	height:auto;
+	float: left;
+	background: #DCDCDC;
+	margin-left: 40px;	
+	margin-top: 30px;
+
+} 
+#DA{
+	text-align: center;
+	font-family: cursive;
+	font-family: fantasy;
+}
+#dii{
+	width: 90%;
+	height:auto;
+	float: right;
+	background: #DCDCDC;
+	margin-right: 80px;	
+	margin-top: 50px;
+
+} 
+
+#derr{
+	width: 90%;
+	height: auto;
+	float: left;
+	background: #DCDCDC;
+	margin-left: 70px;	
+	margin-top: 30px;
+
+} 
+#mik{
+    width: 200px;
+	height: 200px;
+	float: left;
+	padding: 10px;
+
+}
+
+#dg{
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding: 10px;
+
+}
+#cuav{
+	width: 45%;
+	height:auto ;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 100px;
+	margin-top: 20px;
+
+}
+#ciu{
+	width: 45%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+#cuax{
+	width: 40%;
+	float: left;
+	background: #3399F1 ;	
+	margin-left: 400px;
+	margin-top: 20px;
+
+}
+#cuas{
+	width: 80%;
+	height:auto ;
+	float: right;
+	background: #3399F1 ;	
+	margin-right: 100px;
+	margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
